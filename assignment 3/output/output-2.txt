@@ -1,0 +1,50 @@
+Routing Table for Node No. 2 at Time 20
+Destination           Path           Cost
+0                      2-0              5
+1                      2-1              6
+3                      2-3              5
+4                      2-4              8
+5                    2-8-5             11
+6                  2-8-5-6             13
+7                    2-8-7             11
+8                      2-8              4
+Routing Table for Node No. 2 at Time 40
+Destination           Path           Cost
+0                      2-0              5
+1                      2-1              6
+3                      2-3              4
+4                      2-4              7
+5                    2-1-5             10
+6                    2-4-6              9
+7                  2-1-5-7             13
+8                      2-8              7
+Routing Table for Node No. 2 at Time 60
+Destination           Path           Cost
+0                      2-0              5
+1                      2-1              7
+3                      2-3              4
+4                      2-4              9
+5                    2-8-5             10
+6                    2-4-6             11
+7                    2-8-7             11
+8                      2-8              4
+Routing Table for Node No. 2 at Time 80
+Destination           Path           Cost
+0                      2-0              5
+1                      2-1              6
+3                      2-3              4
+4                      2-4              9
+5                    2-1-5             11
+6                    2-4-6             11
+7                    2-8-7             14
+8                      2-8              7
+Routing Table for Node No. 2 at Time 100
+Destination           Path           Cost
+0                      2-0              5
+1                      2-1              5
+3                      2-3              4
+4                      2-4              9
+5                    2-1-5             12
+6                    2-4-6             11
+7                    2-8-7             10
+8                      2-8              6

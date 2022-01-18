@@ -1,0 +1,50 @@
+Routing Table for Node No. 7 at Time 20
+Destination           Path           Cost
+0                  7-5-1-0             10
+1                    7-5-1              8
+2                    7-4-2             14
+3                    7-8-3             12
+4                      7-4              7
+5                      7-5              3
+6                    7-5-6              6
+8                      7-8              7
+Routing Table for Node No. 7 at Time 40
+Destination           Path           Cost
+0                  7-5-1-0              9
+1                    7-5-1              7
+2                  7-5-1-2             13
+3                    7-8-3             12
+4                      7-4              7
+5                      7-5              3
+6                    7-5-6              6
+8                      7-8              7
+Routing Table for Node No. 7 at Time 60
+Destination           Path           Cost
+0                  7-5-1-0             11
+1                    7-5-1              9
+2                    7-8-2             11
+3                    7-8-3             12
+4                      7-4              7
+5                      7-5              5
+6                      7-6              7
+8                      7-8              7
+Routing Table for Node No. 7 at Time 80
+Destination           Path           Cost
+0                  7-5-1-0             11
+1                    7-5-1              9
+2                    7-8-2             10
+3                    7-8-3             12
+4                      7-4              8
+5                      7-5              4
+6                      7-6              7
+8                      7-8              7
+Routing Table for Node No. 7 at Time 100
+Destination           Path           Cost
+0                  7-8-1-0             10
+1                    7-8-1              8
+2                    7-8-2              7
+3                    7-8-3              9
+4                  7-5-6-4              7
+5                      7-5              2
+6                    7-5-6              5
+8                      7-8              4

@@ -1,0 +1,12 @@
+Learning Outcomes
+
+- Clear understanding of how routers build routing tables with the aim of choosing shortest paths
+- Saw how it computes routing table as the network changes dynamically
+- Saw how routers gather information about the network through HELLO and LSA messages.
+- Learnt to write script files 
+- Learnt to document my work thoroughly
+
+Conclusion
+
+We can see how nodes obtain information about the graph by flooding LSA messages and through HELLO messages. We have also simulated changing cost of sending packets through links due to varying congestion at the links. We saw how routers compute routing tables in this dynamically changing graph.
+
